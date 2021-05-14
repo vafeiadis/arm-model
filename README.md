@@ -4,7 +4,7 @@ This repository contains the Arm8 memory model with support for mixed-size acces
 
 Prerequisites:
 
-- [http://coq.inria.fr|Coq] version 8.13  
+- Coq version 8.13 (http://coq.inria.fr)  
 
 
 Compilation instructions:
